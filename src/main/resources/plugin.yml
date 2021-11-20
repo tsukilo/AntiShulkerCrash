@@ -1,0 +1,3 @@
+name: AntiShulkerCrash
+version: '${project.version}'
+main: com.tsukilo.antishulkercrash.AntiShulkerCrash
